@@ -1,0 +1,7 @@
+From: accounts@supplier.example
+To: analyst@example.com
+Subject: Updated supplier bank details
+Reply-To: payments@elsewhere.example
+Content-Type: text/plain; charset=utf-8
+
+Please use the revised bank account for the outstanding invoice. Do not call the office because the team is unavailable. Reply with confirmation when the transfer is complete.

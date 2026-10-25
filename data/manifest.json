@@ -1,0 +1,23 @@
+[
+  {
+    "name": "CEAS_08.csv",
+    "md5": "1f0d59191eec892a709995d48cd8decb",
+    "sha256": "22375e7d5f5a8229dbe987914ee9b3705656c590038662a7df6054629b376074",
+    "url": "https://zenodo.org/records/8339691/files/CEAS_08.csv?download=1",
+    "license": "CC BY 4.0 per Zenodo record"
+  },
+  {
+    "name": "Nazario.csv",
+    "md5": "4022d055bb7cf8602f30f768f652e91e",
+    "sha256": "b8fbc4158fbdfaff1ed98584c43d72e283c6352d7ade4d457d34c1d79488d184",
+    "url": "https://zenodo.org/records/8339691/files/Nazario.csv?download=1",
+    "license": "CC BY 4.0 per Zenodo record"
+  },
+  {
+    "name": "Nigerian_5.csv",
+    "md5": "edfbbb89c40e7447f47867bcc82e72f9",
+    "sha256": "3171eeb9bf560059e7f88458efde65c056fc939b842a5edc158f2d7bb887c8b7",
+    "url": "https://zenodo.org/records/8339691/files/Nigerian_5.csv?download=1",
+    "license": "CC BY 4.0 per Zenodo record"
+  }
+]

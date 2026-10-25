@@ -1,0 +1,15 @@
+From: payroll@company.example
+To: analyst@example.com
+Subject: Review payroll profile
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="PL"
+
+--PL
+Content-Type: text/plain; charset=utf-8
+
+Your payroll record needs a password confirmation before the next payment.
+--PL
+Content-Type: text/html; charset=utf-8
+
+<p>Your payroll record needs a password confirmation before the next payment.</p><a href="http://192.0.2.30/payroll">Company payroll</a><script>alert(1)</script>
+--PL--

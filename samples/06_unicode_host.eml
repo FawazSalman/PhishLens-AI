@@ -1,0 +1,6 @@
+From: service@portal.example
+To: analyst@example.com
+Subject: Account confirmation
+Content-Type: text/plain; charset=utf-8
+
+Verify your account at https://xn--pple-43d.example/login. Enter your password to continue.

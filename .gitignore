@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.vscode/
+/START_HERE.md
+data/raw/
+data/*split_hashes.json
+models/*.json
+reports/investigation*
+reports/private/
+*.log
+.DS_Store

@@ -1,0 +1,98 @@
+[
+  {
+    "file": "01_account_pressure.eml",
+    "intended_label": 1,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "02_payment_redirect.eml",
+    "intended_label": 1,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "03_quiet_document_lure.eml",
+    "intended_label": 1,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "04_prompt_injection.eml",
+    "intended_label": 1,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "05_html_alternative.eml",
+    "intended_label": 1,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "06_unicode_host.eml",
+    "intended_label": 1,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "07_benign_meeting.eml",
+    "intended_label": 0,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "08_benign_security.eml",
+    "intended_label": 0,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "09_benign_newsletter.eml",
+    "intended_label": 0,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "10_benign_reply_mismatch.eml",
+    "intended_label": 0,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "11_attachment_lure.eml",
+    "intended_label": 1,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  },
+  {
+    "file": "12_benign_urgent.eml",
+    "intended_label": 0,
+    "origin": "AI-authored by ChatGPT during project creation",
+    "purpose": "held-out illustrative challenge; never used in training",
+    "created": "2026-10-25",
+    "domains": "Reserved .example domains and documentation-only IP ranges"
+  }
+]

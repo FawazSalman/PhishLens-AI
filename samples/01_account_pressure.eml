@@ -1,0 +1,7 @@
+From: support@account.example
+To: analyst@example.com
+Subject: Account access requires attention
+Reply-To: review@other.example
+Content-Type: text/plain; charset=utf-8
+
+Urgent: verify your password immediately or your account will be suspended. Sign in at http://192.0.2.10/verify to retain access.

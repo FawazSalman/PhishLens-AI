@@ -1,0 +1,7 @@
+From: support@service.example
+To: analyst@example.com
+Subject: Your support ticket has been received
+Reply-To: tickets@helpdesk.example
+Content-Type: text/plain; charset=utf-8
+
+Thank you for contacting our help desk. Your ticket reference is 1042. We will respond within two working days. You do not need to take any action.

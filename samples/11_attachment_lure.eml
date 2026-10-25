@@ -1,0 +1,16 @@
+From: billing@vendor.example
+To: analyst@example.com
+Subject: Requested invoice copy
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="PL"
+
+--PL
+Content-Type: text/plain
+
+The requested invoice is attached. Open the file and follow its instructions to process the payment.
+--PL
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="invoice.pdf.js"
+
+INERT TRAINING PLACEHOLDER ONLY
+--PL--

@@ -1,0 +1,114 @@
+{
+  "created_utc": "2026-10-24T21:42:41.282707+00:00",
+  "seed": 42,
+  "threshold": 0.5,
+  "training_rows": 31170,
+  "test_rows": 7793,
+  "exact_normalized_duplicates_removed": 191,
+  "conflicting_text_groups_removed": 0,
+  "label_meaning": "Upstream 0/1 labels; positive class may include spam, not exclusively verified phishing.",
+  "held_out_mixed": {
+    "classification_report": {
+      "0": {
+        "precision": 0.9927953890489913,
+        "recall": 0.9962406015037594,
+        "f1-score": 0.9945150115473441,
+        "support": 3458.0
+      },
+      "1": {
+        "precision": 0.9969928290538977,
+        "recall": 0.994232987312572,
+        "f1-score": 0.9956109956109956,
+        "support": 4335.0
+      },
+      "accuracy": 0.9951238290773772,
+      "macro avg": {
+        "precision": 0.9948941090514445,
+        "recall": 0.9952367944081657,
+        "f1-score": 0.9950630035791699,
+        "support": 7793.0
+      },
+      "weighted avg": {
+        "precision": 0.9951302924778723,
+        "recall": 0.9951238290773772,
+        "f1-score": 0.9951246728993177,
+        "support": 7793.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        3445,
+        13
+      ],
+      [
+        25,
+        4310
+      ]
+    ],
+    "average_precision": 0.9997326230502459,
+    "roc_auc": 0.9996563140617047
+  },
+  "training_sources": [
+    "CEAS_08.csv"
+  ],
+  "limitations": [
+    "Historical English-heavy corpora; not a production accuracy estimate.",
+    "Exact normalized duplicates removed before splitting; near-duplicate templates/campaigns may cross split.",
+    "No campaign-grouped or temporal split.",
+    "Text model excludes sender, receiver, date and upstream URL flag to reduce metadata leakage.",
+    "Source overlap is removed by exact normalized text; remaining near duplicates can inflate results."
+  ],
+  "external": {
+    "source": "Nazario.csv",
+    "rows": 1550,
+    "overlapping_rows_removed": 0,
+    "class_counts": {
+      "0": 0,
+      "1": 1550
+    },
+    "classification_report": {
+      "0": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+      },
+      "1": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1-score": 0.3333333333333333,
+        "support": 1550.0
+      },
+      "accuracy": 0.2,
+      "macro avg": {
+        "precision": 0.5,
+        "recall": 0.1,
+        "f1-score": 0.16666666666666666,
+        "support": 1550.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 0.2,
+        "f1-score": 0.3333333333333333,
+        "support": 1550.0
+      }
+    },
+    "confusion_matrix": [
+      [
+        0,
+        0
+      ],
+      [
+        1240,
+        310
+      ]
+    ],
+    "note": "Source-shift benchmark; not a temporal or campaign-independent guarantee. Missing classes do not support accuracy claims."
+  },
+  "versions": {
+    "python": "3.12.14",
+    "sklearn": "1.8.0",
+    "numpy": "2.3.5",
+    "scipy": "1.17.0"
+  }
+}

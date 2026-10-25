@@ -1,0 +1,149 @@
+{
+  "note": "AI-authored synthetic challenge set, excluded from training. Illustrative cases, not population accuracy.",
+  "cases": [
+    {
+      "file": "01_account_pressure.eml",
+      "intended_label": 1,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.97958,
+      "rule_score": 55,
+      "verdict": "Elevated signals",
+      "ml_detected_at_0_5": true
+    },
+    {
+      "file": "02_payment_redirect.eml",
+      "intended_label": 1,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.75826,
+      "rule_score": 15,
+      "verdict": "Elevated signals",
+      "ml_detected_at_0_5": true
+    },
+    {
+      "file": "03_quiet_document_lure.eml",
+      "intended_label": 1,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.84405,
+      "rule_score": 10,
+      "verdict": "Elevated signals",
+      "ml_detected_at_0_5": true
+    },
+    {
+      "file": "04_prompt_injection.eml",
+      "intended_label": 1,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.89598,
+      "rule_score": 55,
+      "verdict": "Elevated signals",
+      "ml_detected_at_0_5": true
+    },
+    {
+      "file": "05_html_alternative.eml",
+      "intended_label": 1,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.89726,
+      "rule_score": 30,
+      "verdict": "Elevated signals",
+      "ml_detected_at_0_5": true
+    },
+    {
+      "file": "06_unicode_host.eml",
+      "intended_label": 1,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.9766,
+      "rule_score": 15,
+      "verdict": "Elevated signals",
+      "ml_detected_at_0_5": true
+    },
+    {
+      "file": "07_benign_meeting.eml",
+      "intended_label": 0,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.43056,
+      "rule_score": 0,
+      "verdict": "Review recommended",
+      "ml_detected_at_0_5": false
+    },
+    {
+      "file": "08_benign_security.eml",
+      "intended_label": 0,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.62293,
+      "rule_score": 20,
+      "verdict": "Review recommended",
+      "ml_detected_at_0_5": true
+    },
+    {
+      "file": "09_benign_newsletter.eml",
+      "intended_label": 0,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.34563,
+      "rule_score": 0,
+      "verdict": "Review recommended",
+      "ml_detected_at_0_5": false
+    },
+    {
+      "file": "10_benign_reply_mismatch.eml",
+      "intended_label": 0,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.91411,
+      "rule_score": 15,
+      "verdict": "Elevated signals",
+      "ml_detected_at_0_5": true
+    },
+    {
+      "file": "11_attachment_lure.eml",
+      "intended_label": 1,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.82113,
+      "rule_score": 20,
+      "verdict": "Elevated signals",
+      "ml_detected_at_0_5": true
+    },
+    {
+      "file": "12_benign_urgent.eml",
+      "intended_label": 0,
+      "origin": "AI-authored by ChatGPT during project creation",
+      "purpose": "held-out illustrative challenge; never used in training",
+      "created": "2026-10-25",
+      "domains": "Reserved .example domains and documentation-only IP ranges",
+      "ml_score": 0.73618,
+      "rule_score": 20,
+      "verdict": "Elevated signals",
+      "ml_detected_at_0_5": true
+    }
+  ]
+}
